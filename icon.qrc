@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>pause.png</file>
+    <file>trash-can-icon-15-removebg-preview.png</file>
+    <file>minus-removebg-preview.png</file>
+    <file>add-create-new-plus-icon-20-removebg-preview.png</file>
+    <file>play.png</file>
+    <file>52-524126_heavy-plus-sign-plus-vector-png-transparent-png-removebg-preview.png</file>
+    <file>1400390-removebg-preview.png</file>
+    <file>pngtree-cartoon-play-button-icon-download-image_1196877-removebg-preview.png</file>
+    <file>115-1156150_triangle-play-button-png-transparent-png-removebg-preview - Copy.png</file>
+    <file>right-removebg-preview.png</file>
+    <file>115-1156150_triangle-play-button-png-transparent-png-removebg-preview.png</file>
+    <file>minus.png</file>
+  </qresource>
+</RCC>
